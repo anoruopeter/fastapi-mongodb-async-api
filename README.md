@@ -58,5 +58,8 @@ Filter by level
 
 GET /logs?level=ERROR
 
+Health check
+
+GET /health
 
 
